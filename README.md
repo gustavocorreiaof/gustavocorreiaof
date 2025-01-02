@@ -2,8 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Correia Dias, tenho 24 anos e sou natural do Brasil. Atualmente, estou cursando Sistemas de Informação na Universidade Federal do Ceará. Possuo mais de 3 anos de experiência no desenvolvimento de APIs, interfaces web, automações e soluções com bancos de dados relacionais (SQL Server) e não relacionais (MongoDB), atuando principalmente no setor financeiro. Sou apaixonado por programação e procuro compartilhar conhecimento por meio do meu perfil no LinkedIn, através de algumas postagens de vez em quando 😅.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -128,7 +126,6 @@ Me chamo Gustavo Correia Dias, tenho 24 anos e sou natural do Brasil. Atualmente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
 
 <br/>
 <br/>
