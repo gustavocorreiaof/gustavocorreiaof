@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Correia Dias
+# 👨‍💻 Gustavo Correia Dias
 
 **`Desenvolvedor FullStack`**
 
