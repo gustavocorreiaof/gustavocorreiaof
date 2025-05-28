@@ -152,6 +152,4 @@ Me chamo Gustavo Correia Dias, tenho 24 anos e sou natural do Brasil. Atualmente
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocorreiaof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavocorreiaof)
-
 </p>
