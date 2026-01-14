@@ -129,16 +129,3 @@
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-<img 
-  align="left" 
-  title="Linguagens Mais Usadas" 
-  height="200" 
-  style="padding-left: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocorreiaof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-</p>
